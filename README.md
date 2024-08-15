@@ -6,3 +6,13 @@
 The Face Recognition Attendance System is a modern solution that uses machine learning to identify people and record their attendance automatically. Instead of using traditional methods like sign-ins or signatures, this system scans a person’s face and matches it with stored data to confirm their identity.
 
 The proposed system uses the LBPH (Local Binary Patterns Histograms) algorithm and Haar Cascade classifier to recognize faces more efficiently. Once a person's face is matched with the existing data, their attendance is recorded in an Excel sheet. The system also includes student management features, allowing administrators to update or delete student details easily. This combination of face recognition and student management makes the system user-friendly and effective.
+
+### Getting Started:
+
+- Download and install Python 3.8 version.
+- Open the cloned folder in VSCode
+- Now run main.py file in VScode
+- once code gets executed successfully then you can see the interface where you can find the three four modules in it
+  
+#### UseCase Diagaram
+![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Getsarted%20Flow%20chart.png)
