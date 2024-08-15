@@ -15,4 +15,4 @@ The proposed system uses the LBPH (Local Binary Patterns Histograms) algorithm a
 - once code gets executed successfully then you can see the interface where you can find the three four modules in it
   
 #### UseCase Diagaram
-![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Getsarted%20Flow%20chart.png)
+![](https://github.com/GummadavelliSandeep/Facial-Recognition-Attendence-System/blob/master/Images/Use%20Case%20Diagaram.png)
