@@ -19,9 +19,6 @@ enhancing medical analysis and decision-making.
 - Install all listed packages in **requirements.txt file** by using the command **pip install -r requirements.txt**
 - Now use the command **"streamlit run final_app.py"** to run the final_app.py file.
 - Once you've opened the application in the browser, try uploading the testing datasets of ECG images to see the predictions.
-  
-#### Flow Chart
-![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Getsarted%20Flow%20chart.png)
 
 ### Architecture Flow Chart Diagaram
 ![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Architecture1.jpg)
