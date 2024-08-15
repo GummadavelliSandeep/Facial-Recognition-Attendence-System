@@ -3,25 +3,6 @@
 
 ### Abstract:
 
-The electrocardiogram (ECG) is important tool for identifying cardiovascular issues. Traditionally, ECG records were paper-based, making manual analysis diffcult and time-consuming. By digitizing these records, we can automate diagnosis and analysis processes. This project aims to utilize image processing and machine learning to convert ECG images into a 1-D signal. It focuses on extracting key components like P, QRS, and T waves, representing heart electrical activity. This automated feature extraction can facilitate the diagnosis of various cardiac conditions, 
-enhancing medical analysis and decision-making.
+The Face Recognition Attendance System is a modern solution that uses machine learning to identify people and record their attendance automatically. Instead of using traditional methods like sign-ins or signatures, this system scans a person’s face and matches it with stored data to confirm their identity.
 
-### Datasets:
-##### Do refer to the link to navigate to ECG Datasets of both Healthy individuals and cardiovascular problems [Click here](https://data.mendeley.com/datasets/gwbz3fsgp8/2 )
-
-### Getting Started:
-
-- Download and install Python 3.8 version.
-- Open the cloned folder in VSCode
-- Open colabs folder and Set all paths in the code to your local path as I did it in code(with extension as .ipynb)
-- Execute all three codes in that folder
-- After executing the code, open the terminal and navigate to the Deployment folder.
-- Install all listed packages in **requirements.txt file** by using the command **pip install -r requirements.txt**
-- Now use the command **"streamlit run final_app.py"** to run the final_app.py file.
-- Once you've opened the application in the browser, try uploading the testing datasets of ECG images to see the predictions.
-
-### Architecture Flow Chart Diagaram
-![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Architecture1.jpg)
-  
-### Demo GIF
-![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Demo%20GIF.gif)
+The proposed system uses the LBPH (Local Binary Patterns Histograms) algorithm and Haar Cascade classifier to recognize faces more efficiently. Once a person's face is matched with the existing data, their attendance is recorded in an Excel sheet. The system also includes student management features, allowing administrators to update or delete student details easily. This combination of face recognition and student management makes the system user-friendly and effective.
