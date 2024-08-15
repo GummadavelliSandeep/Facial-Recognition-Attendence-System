@@ -1,5 +1,5 @@
 
-# Facial Recognition Attendence System <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1fac0.gif" width="50" height="50" alt="Alt text">
+# Facial Recognition Attendence System <img src="https://github.com/GummadavelliSandeep/Facial-Recognition-Attendence-System/blob/master/Images/face-recognition.png" width="50" height="50" alt="Alt text">
 
 ### Abstract:
 
